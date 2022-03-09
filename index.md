@@ -1,1 +1,1 @@
-This is the content index.
+This is the public index.
